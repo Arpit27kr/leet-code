@@ -81,9 +81,8 @@ Node.printList(Node node);
 
 class Solution {
     public static Node moveToFront(Node head) {
-        
         // code here
-        if(head==null){
+          if(head==null){
             return null;
         }
         if(head.next==null){
@@ -100,7 +99,6 @@ class Solution {
         head=curr;
         prev.next=null;
         return head;
-    
     }
 }
         
