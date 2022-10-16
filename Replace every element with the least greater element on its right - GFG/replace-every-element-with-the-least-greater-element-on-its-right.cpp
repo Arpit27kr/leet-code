@@ -10,7 +10,7 @@ using namespace std;
 class Solution{
     public:
     vector<int> findLeastGreater(vector<int>& arr, int n) {
-    
+         
         
         set<int>s;
         vector<int>ans;
@@ -28,10 +28,7 @@ class Solution{
    
         return ans;
         
-        
     }
-        
-    
 };
 
 //{ Driver Code Starts.
