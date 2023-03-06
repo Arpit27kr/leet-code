@@ -90,6 +90,17 @@ class Main {
 // } Driver Code Ends
 
 
+/*Complete the finction below
+Node is as follows
+class Node{
+    int data;
+    Node left,right;
+    Node(int d){
+        data=d;
+        left=right=null;
+    }
+}*/
+
 
 /*Complete the finction below
 Node is as follows
