@@ -11,7 +11,6 @@ import java.util.*;
 //User function Template for Java
 
 //User function Template for Java
-//User function Template for Java
 
 class Solution {
     Long maxTripletProduct(Long arr[], int n)
