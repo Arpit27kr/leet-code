@@ -57,7 +57,6 @@ class GFG {
 
 
 
-
 class Solution {
     public static ArrayList<Integer> getDistinctDifference(int N, int[] A) {
         Set<Integer> prev=new HashSet<>();
