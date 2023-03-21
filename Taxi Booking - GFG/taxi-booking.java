@@ -61,8 +61,6 @@ class GFG {
 
 // } Driver Code Ends
 
-
-
 class Solution {
     public static int minimumTime(int N, int cur, int[] pos, int[] time) {
         int m=Integer.MAX_VALUE;
@@ -71,4 +69,3 @@ class Solution {
         return m;
     }
 }
-        
