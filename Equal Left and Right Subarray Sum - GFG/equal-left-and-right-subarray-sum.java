@@ -23,8 +23,8 @@ class GFG {
 // } Driver Code Ends
 
 
-
 //User function Template for Java
+
 
 class Solution{
 	int equalSum(int [] A, int N) {
