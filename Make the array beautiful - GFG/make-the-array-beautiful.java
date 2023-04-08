@@ -50,7 +50,6 @@ class GFG {
 
 
 
-
 class Solution {
     public static ArrayList<Integer> makeBeautiful(int[] arr) {
         // code here
