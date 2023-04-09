@@ -41,7 +41,6 @@ class GFG {
 
 
 
-
 class Solution {
     private static final int MAX_SIZE = 100005; // maximum size of arrays
 private static final int MOD = 1000000007; // a large prime number used for modulo operations
@@ -110,5 +109,4 @@ private static long calculateNcr(int n, int r) {
     return answer; // return the result of n choose r modulo MOD
     }
 }
-        
         
